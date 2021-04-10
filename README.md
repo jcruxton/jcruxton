@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jcruxton
 - 👀 I’m interested in ... GUIs, Chemistry, Bioinformatics, Gaming
-- 🌱 I’m currently learning ... Discrete Structures of CSCI and 
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning ... Discrete Structures of CSCI and Computer Organization
+- 💞️ I’m looking to collaborate on ... nothing yet!
 - 📫 How to reach me ... jcruxton@email.wm.edu or jruxton37@gmail.com
 
 <!---
